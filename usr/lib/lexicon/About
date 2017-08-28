@@ -8,6 +8,6 @@ About=$( echo "   Lexicon:	 An Instant Dictionary
 
    E-mail:	 	LinuxSDA@gmail.com
 
- 	 )
+ 	 ")
 
 yad --title="Lexicon" --center --width=600 --no-buttons --text="$About"
